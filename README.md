@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/FeletexGee/EatTer/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://feletexgee.github.io/EatTer/index.html"><img src="https://github.com/FeletexGee/EatTer/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatTer"></a>
 </p>
 <div align="center">
 
@@ -12,12 +12,12 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉特级（日常怨念）
+小游戏：吃掉特级
 
-这个是填ed还是ing呢？Your answer!
+这个是填ed还是ing呢？Your answer！
 
-（上游仓库）线上版本:https://xingye.me/game/eatkano/index.php
+直接开玩：https://feletexgee.github.io/EatTer/index.html
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+原project（吃掉小鹿乃）：https://github.com/arcxingye/EatKano
 
 如果想自己修改的，去原开发者那里fork一下啦。配置真的真的真的非常简单~
